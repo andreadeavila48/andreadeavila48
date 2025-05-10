@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Oriana De Avila
 
-<!--
-**andreadeavila48/andreadeavila48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Analista de Datos** con experiencia en extracción de insights a partir de datos complejos. Apasionada por transformar datos en decisiones estratégicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Herramientas y Tecnologías
+
+- **Lenguajes:** Python, SQL
+- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Herramientas:** Jupyter Notebook, Tableau, Power BI, Git
+- **Bases de Datos:** MySQL, PostgreSQL
+
+---
+
+## 📊 Proyectos Destacados
+
+- [Análisis de Ventas en Cali](https://github.com/andreadeavila48/analisis-ventas-cali): Exploración de datos de ventas para identificar tendencias y patrones de consumo.
+   
+---
+
+## 📫 Contacto
+
+- 📧 [andreadeavila48@gmail.com](mailto:andreadeavila48@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oriana-de-avila)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=andreadeavila48&show_icons=true&theme=radical)
